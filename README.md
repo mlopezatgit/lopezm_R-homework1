@@ -1,5 +1,11 @@
-# R Assignment 1
+# MAB2111 - Computing for Analytics 1
 Author: Maanne Lopez
+## CONTENTS
+1. R Assignment 1
+2. R Assignment 2: Machine Problem
+
+
+# R Assignment 1
 
 ## ABOUT: MaanneLopez_Assignment 1.R
 ### I. Codes to identify the following from WHO.csv
@@ -24,7 +30,6 @@ Author: Maanne Lopez
 
 
 # R Assignment 2: Machine Problem
-Author: Maanne Lopez
 
 ## ABOUT: Lopez_Maanne_MP.R
 ### R Codes for the following R functions:
