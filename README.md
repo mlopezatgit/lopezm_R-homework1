@@ -1,7 +1,7 @@
 # R Assignment 1
 Author: Maanne Lopez
 
-## ABOUT: R Assignment 1
+## ABOUT: MaanneLopez_Assignment 1.R
 ### I. Codes to identify the following from WHO.csv
 1. Country with the lowest literacy
 2. Richest country in Europe based on GNI
@@ -26,7 +26,7 @@ Author: Maanne Lopez
 # R Assignment 2: Machine Problem
 Author: Maanne Lopez
 
-## ABOUT: R Assignment 2: Machine Problem
+## ABOUT: Lopez_Maanne_MP.R
 ### R Codes for the following R functions:
 1. Computes the factorial of an integer argument with an output of a vector length 1
 2. Computes the deteminant of a matrix with an output of a vector length 1
