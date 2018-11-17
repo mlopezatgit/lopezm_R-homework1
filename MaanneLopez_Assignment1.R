@@ -1,7 +1,6 @@
 MAB2111 - Computing for Analytics 1
 R Assignment No. 1 
-submitted by: Lopez, Maanne
-
+Submitted by: Lopez, Maanne
 
 ---
 
