@@ -4,11 +4,6 @@
 
 ---
 
-### Assignment  at github:
-### https://github.com/mlopezatgit/lopezm_R-homework1/blob/master/hw1-upload
-
----
-
 ## Computes the factorial of an integer argument with an output of a vector length 1
       
   # Let "find_factorial" be the name of the factorial function
